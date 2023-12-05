@@ -25,6 +25,6 @@ Main folder:
 - model fit visualizing script: 'model_fit_visualizations.m'
 
 - julia helper functions:
--- draw.jl
--- truncatednorm.jl
+    * draw.jl
+    * truncatednorm.jl
 
