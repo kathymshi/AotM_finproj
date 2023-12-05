@@ -7,7 +7,7 @@ Folders:
   
   Raw datafile: 'lichess_db_standard_rated_2013-01.pgn.zst' (I downloaded from 'https://database.lichess.org/')  
   
-  cleaning script:
+  cleaning script: 'datacleaning.py'
   
   Main folder:
   
