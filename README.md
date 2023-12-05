@@ -10,3 +10,7 @@ Folders:
   Main folder:
   
   datafile: 'data_Jan2013_100.txt'
+
+  models: 
+  -
+  - original
