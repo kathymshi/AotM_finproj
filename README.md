@@ -5,12 +5,19 @@ Folders:
 
   Raw data:
   
-  Inside are the raw file I downloaded from 'https://database.lichess.org/' as a zst file ('lichess_db_standard_rated_2013-01.pgn.zst') and the script I used to clean it into 'data_Jan2013_100.txt'
+  Raw datafile: 'lichess_db_standard_rated_2013-01.pgn.zst' (I downloaded from 'https://database.lichess.org/')  
+  
+  cleaning script:
   
   Main folder:
   
   datafile: 'data_Jan2013_100.txt'
 
+  environment folder for Julia: 'myenv'
+
   models: 
-  -
-  - original
+  - original:
+  - with importance sampling:
+  - with self-written inference algorithm:
+
+  visualizing script: 'model_fit_visualizations.m'
