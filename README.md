@@ -16,9 +16,9 @@ Main folder:
 - environment folder for Julia: 'myenv'
 
 - models scripts: 
--- original:
--- with importance sampling:
--- with self-written inference algorithm:
+* original:
+* with importance sampling:
+* with self-written inference algorithm:
 
 - prior visualization script: 
 
