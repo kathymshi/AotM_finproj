@@ -15,14 +15,9 @@ Main folder:
 
 - environment folder for Julia: 'myenv'
 
-- models scripts: 
-    * original:
-    * with importance sampling:
-    * with self-written inference algorithm:
+- julia script: Final project Algo of Mind
 
-- prior visualization script: 
-
-- model fit visualizing script: 'model_fit_visualizations.m'
+- Matlab model fit visualizing script: 'model_fit_visualizations.m'
 
 - julia helper functions:
     * draw.jl
