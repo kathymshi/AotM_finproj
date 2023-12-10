@@ -15,7 +15,7 @@ Main folder:
 
 - environment folder for Julia: 'myenv'
 
-- julia script: Final project Algo of Mind
+- julia script: 'Final project Algo of Mind.ipynb'
 
 - Matlab model fit visualizing script: 'model_fit_visualizations.m'
 
