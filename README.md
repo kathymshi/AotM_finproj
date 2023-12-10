@@ -11,6 +11,8 @@ Raw data:
 
 Main folder:
 
+- report pdf: 'Final_project_AotM.pdf'
+
 - datafile: 'data_Jan2013_100.txt'
 
 - environment folder for Julia: 'myenv'
